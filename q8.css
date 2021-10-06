@@ -1,0 +1,17 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    
+    
+}
+
+th,td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+p {
+    text-align: center;
+}
